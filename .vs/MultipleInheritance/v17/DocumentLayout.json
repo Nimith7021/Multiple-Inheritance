@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\MultipleInheritance\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BDD9003C-4CFF-479B-B254-88AB4EED0BA0}|..\\AnimalClass\\AnimalClass.csproj|c:\\users\\nimith.shetty\\desktop\\aproscm\\animalclass\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA8961C9-4C4B-4FD5-AF3A-74C8CE1180EE}|..\\Structure\\Structure.csproj|c:\\users\\nimith.shetty\\desktop\\aproscm\\structure\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDD9003C-4CFF-479B-B254-88AB4EED0BA0}|..\\AnimalClass\\AnimalClass.csproj|c:\\users\\nimith.shetty\\desktop\\aproscm\\animalclass\\models\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2C9D8A1-AF41-4138-9C6A-424B3E2591E6}|MultipleInheritance.csproj|c:\\users\\nimith.shetty\\desktop\\aproscm\\multipleinheritance\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2C9D8A1-AF41-4138-9C6A-424B3E2591E6}|MultipleInheritance.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Animal.cs",
+              "DocumentMoniker": "C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\AnimalClass\\Models\\Animal.cs",
+              "RelativeDocumentMoniker": "..\\AnimalClass\\Models\\Animal.cs",
+              "ToolTip": "C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\AnimalClass\\Models\\Animal.cs",
+              "RelativeToolTip": "..\\AnimalClass\\Models\\Animal.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T13:31:20.887Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\AnimalClass\\Program.cs",
+              "RelativeDocumentMoniker": "..\\AnimalClass\\Program.cs",
+              "ToolTip": "C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\AnimalClass\\Program.cs",
+              "RelativeToolTip": "..\\AnimalClass\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T13:30:05.631Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\Structure\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Structure\\Program.cs",
+              "ToolTip": "C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\Structure\\Program.cs",
+              "RelativeToolTip": "..\\Structure\\Program.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAQwBwAAABVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T13:15:34.525Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\MultipleInheritance\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\MultipleInheritance\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T13:08:21.441Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
